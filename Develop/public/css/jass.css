@@ -347,6 +347,7 @@ END NORMALIZE CSS
 *::after {
   box-sizing: border-box;
 }
+#map { height: 560px; }
 
 html,
 body {
